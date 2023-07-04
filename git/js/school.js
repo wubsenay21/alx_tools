@@ -1,1 +1,1 @@
-console.log("school");
+console.log("School);
